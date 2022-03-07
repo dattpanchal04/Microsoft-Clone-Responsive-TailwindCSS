@@ -1,7 +1,11 @@
-
 # Microsoft Clone using HTML, Tailwind CSS and some Alpinejs
 
 Hi dear, I created one Microsoft Clone which is also a responsive using HTML, Tailwind CSS and some Alpine.js. To practice the Tailwind CSS i created this clone. You can also see this clone in your mobile phone. I gave my 100% to build this clone to same as Microsoft. So, checkout this amazing clone. Thank you for visit !!
+
+- Preview
+
+![msclone](https://user-images.githubusercontent.com/94067118/157073619-d44b5630-7d66-462a-8be2-a7299066b996.jpg)
+
 ## Authors
 
 - [@dattpanchal04](https://github.com/dattpanchal04)
